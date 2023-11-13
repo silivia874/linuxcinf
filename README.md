@@ -1,0 +1,3 @@
+# linuxcinf
+linux configuration
+linuxconf........
